@@ -1,4 +1,4 @@
-# 3d-reconstruction
+# 3D Reconstruction
 
 # Run app locally
 - Install [MATLAB](https://la.mathworks.com/downloads/)
