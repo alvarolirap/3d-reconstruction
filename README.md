@@ -3,7 +3,7 @@
 # Run app locally
 - Install [MATLAB](https://la.mathworks.com/downloads/)
 - Install MATLAB's add-ons: Communications Toolbox, Parallel Computing Toolbox, Image Processing Toolbox
-- Install [CVX] (https://la.mathworks.com/downloads/)http://cvxr.com/cvx/download/) library for MATLAB
+- Install [CVX](http://cvxr.com/cvx/download/) library for MATLAB
 - Install Python's dependencies
 ```
 python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
