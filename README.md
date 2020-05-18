@@ -12,7 +12,7 @@ pip install h5py
 pip install -U scikit-learn
 ```
 - Follow the instructions in the `get_started.m` file
-
+- Source: [**paper**](https://arxiv.org/abs/1711.10669.pdf):
 ```
 @article{pontes2017image2mesh,
   title={Image2Mesh: A Learning Framework for Single Image 3D Reconstruction},
